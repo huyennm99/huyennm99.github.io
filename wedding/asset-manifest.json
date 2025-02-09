@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wedding/static/css/main.ca5ebfac.css",
+    "main.js": "/wedding/static/js/main.fece7c2a.js",
+    "static/media/UYPW9839.JPG": "/wedding/static/media/UYPW9839.b603dc06b3173df147df.JPG",
+    "static/media/UYPW0938.JPG": "/wedding/static/media/UYPW0938.3f2340a5ea100295c0b5.JPG",
+    "static/media/UYPW0956.JPG": "/wedding/static/media/UYPW0956.7f7e38a019d3893d9dcd.JPG",
+    "static/media/UYPW0526.JPG": "/wedding/static/media/UYPW0526.4075100d7d5a320ad6c4.JPG",
+    "static/media/TTPG0147.JPG": "/wedding/static/media/TTPG0147.1ee0e344b014654b42f0.JPG",
+    "static/media/UYPW0364.JPG": "/wedding/static/media/UYPW0364.4137049a97ed38a8f778.JPG",
+    "static/media/UYPW0087.JPG": "/wedding/static/media/UYPW0087.ccf6c1038a23736d7bc8.JPG",
+    "static/media/leaf-bg.jpg": "/wedding/static/media/leaf-bg.e093205e35c32e67ec40.jpg",
+    "static/media/5888038-mb.jpg": "/wedding/static/media/5888038-mb.7176e9e22bac04265246.jpg",
+    "static/media/TTPG0177.JPG": "/wedding/static/media/TTPG0177.14b744e1ce8ed938a8a4.JPG",
+    "static/media/qr.png": "/wedding/static/media/qr.f7d674c1716c673a362f.png",
+    "static/media/qr-br.png": "/wedding/static/media/qr-br.ee197382ae193f70b061.png",
+    "index.html": "/wedding/index.html",
+    "main.ca5ebfac.css.map": "/wedding/static/css/main.ca5ebfac.css.map",
+    "main.fece7c2a.js.map": "/wedding/static/js/main.fece7c2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca5ebfac.css",
+    "static/js/main.fece7c2a.js"
+  ]
+}
